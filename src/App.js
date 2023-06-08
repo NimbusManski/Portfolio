@@ -1,6 +1,6 @@
 
 import './App.css';
-import {Navigation} from './src/components/Navigation';
+import Navigation from './components/Navigation';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
