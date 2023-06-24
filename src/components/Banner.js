@@ -56,7 +56,7 @@ function tick() {
             <button onClick={() => {console.log('connect')}}>Contact<ArrowRightCircle size={25} /></button>
           </Col>
           <Col xs={12} md={6} xl={5} >
-            <img src={'/images/My project.png'} alt='Header image'></img>
+            <img src={'./images/My project.png'} alt='Header image'></img>
           </Col>
         </Row>
       </Container>

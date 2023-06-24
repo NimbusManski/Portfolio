@@ -57,7 +57,7 @@ function Navigation() {
                 onUpdateActiveLink('skills');
               }}
             >
-              Skils
+              Skills
             </Nav.Link>
             <Nav.Link
               href="#projects"
@@ -73,9 +73,9 @@ function Navigation() {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-                <a href="#"><img src={'/images/linkedin.svg'} alt="LinkedIn" /></a>
-                <a href="#"><img src={'/images/square-facebook.svg'} alt="Facebook" /></a>
-                <a href="#"><img src={'/images/square-instagram.svg'} alt="Instagram" className="instagram-Icon"/></a>
+                <a href="https://www.linkedin.com/in/daniel-shaw-5a9539280/"><img src={'./images/linkedin.svg'} alt="LinkedIn" /></a>
+                <a href="https://www.facebook.com/profile.php?id=100008188393147"><img src={'./images/square-facebook.svg'} alt="Facebook" /></a>
+                <a href="https://github.com/NimbusManski"><img src={'./images/square-github.svg'} alt="Instagram" className="instagram-Icon"/></a>
             </div>
             <button
               className="vvd"
