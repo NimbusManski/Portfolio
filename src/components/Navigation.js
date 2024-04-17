@@ -77,7 +77,7 @@ function Navigation() {
           <span className="navbar-text">
             <div className="social-icon">
               <a
-                href="https://www.linkedin.com/in/daniel-shaw-5a9539280/"
+                href="www.linkedin.com/in/daniel-shaw-094268253"
                 target="_blank"
               >
                 <img src={"./images/linkedin.svg"} alt="LinkedIn" />
