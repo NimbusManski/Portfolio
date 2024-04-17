@@ -16,7 +16,7 @@ function Projects() {
     {
       title: "CRUD's Book Store",
       description:
-        "A simple CRUD application where you can upload, edit and delete book-listings! Using Javascript, React and CSS on the front end, and Express, MySQL and Node on the backend. I chose a MySQL for this database as each item has a relatively strict schema and also due to the relational nature of e-commerce websites.",
+        "A slick CRUD application where you can upload, edit and delete book-listings! Using Javascript, React and CSS on the front end, and Express, MySQL and Node on the backend. I chose a MySQL for this database as each item has a relatively strict schema and also due to the relational nature of e-commerce websites.",
       imgUrl: "/images/CRUD's Book Store.png",
       projectUrl:"https://book-listing-app.onrender.com"
     },
