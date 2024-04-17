@@ -58,8 +58,8 @@ function Banner() {
               Hello! I'm a software developer from Katy, Texas. I'm very
               passionate about learning and writing code, whether it's solving
               problems or building interesting applications. I enjoy playing
-              chess and making music in my free time, as well as exercising to
-              keep myself healthy.
+              chess and making music in my free time, as well as running and weight-lifting to
+              stay healthy.
             </p>
             <button>
               <a
