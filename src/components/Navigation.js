@@ -82,12 +82,6 @@ function Navigation() {
               >
                 <img src={"./images/linkedin.svg"} alt="LinkedIn" />
               </a>
-              <a
-                href="https://www.facebook.com/profile.php?id=100008188393147"
-                target="_blank"
-              >
-                <img src={"./images/square-facebook.svg"} alt="Facebook" />
-              </a>
               <a href="https://github.com/NimbusManski" target="_blank">
                 <img
                   src={"./images/square-github.svg"}
