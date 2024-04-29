@@ -12,7 +12,13 @@ function Projects() {
       imgUrl: "/images/Casual Blog website.png",
       projectUrl:"https://blog-app-mo57.onrender.com"
     },
-
+{
+      title: "Mitigation Website",
+      description: "A water damage mitigation website I built for a client using React, Bootstrap, Express and MongoDB. I'm using MongoDB for the database as the client wants to grow the site over time and gradually customize Schema models which MongoDB is good for, as it's very flexible with editing/updating models.",
+      imgUrl: "/images/water-damage-site.png",
+      projectUrl:"https://water-damage-site-public.onrender.com"
+    },
+    
     {
       title: "CRUD's Book Store",
       description:
@@ -20,6 +26,7 @@ function Projects() {
       imgUrl: "/images/CRUD's Book Store.png",
       projectUrl:"https://book-listing-app.onrender.com"
     },
+    
   ];
   return (
     <section className="project" id="projects">
