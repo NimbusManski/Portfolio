@@ -43,7 +43,7 @@ function Projects() {
           <Col>
             <h2>Projects</h2>
             <p>
-              This Portfolio along with the two projects below are built using
+              This Portfolio along with the projects below are built using
               Javascript, React, Bootstrap, CSS for the front end and Node,
               Express, MongoDB and MySQL on the backend.
             </p>
