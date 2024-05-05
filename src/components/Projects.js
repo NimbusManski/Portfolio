@@ -8,7 +8,7 @@ function Projects() {
     {
       title: "Mens Luxury Website",
       description:
-        "A luxury accessories site I built using Javascript, React bootstrap, React, Express, MySQL and CSS. I chose MySQL for the database on this project due to the strict schema models I needed to build it.",
+        "A luxury accessories site I built using Stripe API, Javascript, React bootstrap, React, Express, MySQL and CSS. I chose MySQL for the database on this project due to the strict schema models I needed to build it.",
       imgUrl: "/images/mens-luxury-site.png",
       projectUrl: "https://full-stack-e-commerce-site.onrender.com",
     },
@@ -16,7 +16,7 @@ function Projects() {
     {
       title: "Mitigation Website",
       description:
-        "A water damage mitigation website I built for a client using React, Bootstrap, Express and MongoDB. I'm using MongoDB for the database as the client wants to grow the site over time and gradually customize Schema models which MongoDB is good for, as it's very flexible with editing/updating models.",
+        "A water damage mitigation website I built for a client using React, Bootstrap, Express and MongoDB. For email validation I used Verifalia API. I'm using MongoDB for the database as the client wants to grow the site over time and gradually customize Schema models which MongoDB is good for, as it's very flexible with editing/updating models.",
       imgUrl: "/images/water-damage-site.png",
       projectUrl: "https://water-damage-site-public.onrender.com",
     },
