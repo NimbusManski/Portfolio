@@ -63,7 +63,10 @@ function Skills() {
                   ></img>
                   <h5>Javascript</h5>
                 </div>
-
+                <div className="item">
+                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+                  <h5>C#</h5>
+                </div>
                 <div className="item">
                   <img
                     src={
@@ -76,10 +79,6 @@ function Skills() {
                 <div className="item">
                   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></img>
                   <h5>Bootstrap</h5>
-                </div>
-                <div className="item">
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-                  <h5>C#</h5>
                 </div>
                 <div className="item">
                   <img
