@@ -17,7 +17,7 @@ function Projects() {
       title: "Mitigation Website",
       description:
         "A water damage mitigation website I built for a client using React, Bootstrap, Express and MongoDB. For email validation I used Verifalia API. I'm using MongoDB for the database as the client wants to grow the site over time and gradually customize Schema models which MongoDB is good for, as it's very flexible with editing/updating models.",
-      imgUrl: "/images/water-damage-site.png",
+      imgUrl: "/images/american-mitigation-img.png",
       projectUrl: "https://water-damage-site-public.onrender.com",
     },
 
